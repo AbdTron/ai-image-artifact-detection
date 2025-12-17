@@ -8,11 +8,9 @@ This project implements a binary image classifier capable of distinguishing betw
 - **AI-Generated/AI-Edited** images
 - **Real/Authentic** images
 
-The model is built using **EfficientNet-B4** architecture with optional **SRM (Steganalysis Rich Model)** preprocessing for enhanced artifact detection.
-
 ## ✨ Features
 
-- 🎯 **High Accuracy Detection** - EfficientNet-B4 backbone optimized for image classification
+- 🎯 **High Accuracy Detection** - Optimized for image classification
 - 🖼️ **User-Friendly GUI** - Tkinter-based interface for easy image testing
 - 📊 **Comprehensive Evaluation** - Detailed metrics including precision, recall, F1-score, ROC curves, and confusion matrices
 - ⚡ **GPU Optimized** - Configured for NVIDIA RTX 3090 (24GB VRAM) with mixed precision training
