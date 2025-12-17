@@ -1,6 +1,6 @@
 # 🔍 AI Image Artifact Detection
 
-A deep learning project that detects whether images are AI-generated/AI-edited or real/authentic using PyTorch and EfficientNet-B4.
+A deep learning project that detects whether images are AI-generated/AI-edited or real/authentic using PyTorch and CNN.
 
 ## 📋 Overview
 
