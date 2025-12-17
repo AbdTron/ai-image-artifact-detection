@@ -1,0 +1,32 @@
+============================================================
+AI-GENERATED/AI-EDITED IMAGE DETECTION - EVALUATION REPORT
+============================================================
+
+MODEL: EfficientNet-B4
+TASK: Binary Classification (AI vs Real)
+
+----------------------------------------
+CONFUSION MATRIX VALUES
+----------------------------------------
+True Positives (TP):  5517
+True Negatives (TN):  5691
+False Positives (FP): 309
+False Negatives (FN): 148
+
+----------------------------------------
+PERFORMANCE METRICS
+----------------------------------------
+Accuracy:              96.08%
+Precision:             94.70%
+Recall (TPR):          97.39%
+Specificity (TNR):     94.85%
+F1 Score:              96.02%
+False Positive Rate:   5.15%
+Negative Pred Value:   97.47%
+Misclassification:     3.92%
+Balanced Accuracy:     96.12%
+MCC:                   0.9220
+AUC:                   0.9941
+
+
+============================================================
